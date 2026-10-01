@@ -10,6 +10,7 @@
   <a href="https://github.com/ishandutta2007/Awesome-Digital-Forensics-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Digital-Forensics-Platform?style=social" alt="Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Digital-Forensics-Platform/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Digital-Forensics-Platform/pulls"><img src="https://img.shields.io/badge/PRs-Welcome-brightgreen.svg" alt="PRs Welcome"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 <p align="center">
@@ -32,6 +33,8 @@ Welcome to the **Awesome Digital Forensics Platform** collection! This repositor
 - [🏗️ Recommended DFIR Stack Integrations](#%EF%B8%8F-recommended-dfir-stack-integrations)
 - [🤝 How to Contribute](#-how-to-contribute)
 - [⚖️ Legal & Ethical Disclaimer](#%EF%B8%8F-legal--ethical-disclaimer)
+- [💖 Support](#-support)
+- [📈 Star History](#-star-history)
 
 ---
 
@@ -117,6 +120,19 @@ Contributions are highly appreciated! Help keep this repository updated with cut
 
 ---
 
-<p align="center">
-  <b>⭐ Star this repository if you find it helpful for your DFIR investigations! ⭐</b>
-</p>
+## 💖 Support
+
+If you find this curated digital forensics collection valuable for your investigations or research, please consider supporting the project:
+
+- 🌟 **Star** this repository on GitHub.
+- 🍴 **Fork** it to keep your own reference copy.
+- 📢 **Share** it with fellow DFIR analysts, forensic examiners, and security colleagues.
+- ☕ **Sponsor / Buy a Coffee:** You can support ongoing maintenance via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+Thank you for your support! 🙌
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Digital-Forensics-Platform&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Digital-Forensics-Platform&type=date&legend=top-left)
